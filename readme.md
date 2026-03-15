@@ -21,5 +21,6 @@ Pipeline Flow:
 4. Gold layer using Delta Live Tables
 5. Star schema for analytics
 
-Architecture:
-netflix project architecture.png
+## Architecture
+
+![Architecture](netflix%20project%20architecture.png)
