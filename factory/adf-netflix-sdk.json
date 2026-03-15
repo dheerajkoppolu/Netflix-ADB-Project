@@ -1,0 +1,9 @@
+{
+	"name": "adf-netflix-sdk",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "2d6ef123-6cff-4250-9aa9-126975951e44",
+		"tenantId": "b5c5225d-a760-408b-acb2-ce7783edcf0a"
+	}
+}
